@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace HermesTranslationChat
+namespace DialogflowChatBot
 {
 
 

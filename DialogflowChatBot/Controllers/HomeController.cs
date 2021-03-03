@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace HermesTranslationChat.Controllers
+namespace DialogflowChatBot.Controllers
 {
     public class HomeController : Controller
     {

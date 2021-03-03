@@ -1,4 +1,4 @@
-﻿<%@ Page Title="Hermes Translation Chat" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="HermesTranslationChat._Default" %>
+﻿<%@ Page Title="Dialogflow Chatbot" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="DialogflowChatBot._Default" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2 class="text-center" style="margin-top: 0; padding-top: 30px; padding-bottom: 30px;"><%: Page.Title %></h2>

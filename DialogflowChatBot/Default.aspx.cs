@@ -11,7 +11,7 @@ using System.Xml.Linq;
 using System.Text;
 using Newtonsoft.Json;
 
-namespace HermesTranslationChat
+namespace DialogflowChatBot
 {
     public partial class _Default : Page
     {
